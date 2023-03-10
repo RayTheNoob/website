@@ -24,15 +24,15 @@ Don't trust us! Trust our players who left reviews!
 
    
 
-* ` This game is so much fun! I love finding words! I play this every day. - Gregg Marina `
+*This game is so much fun! I love finding words! I play this every day. - Gregg Marina
 
-` I keep playing this game and my IQ keeps going up! - Jared Kellen`
+I keep playing this game and my IQ keeps going up! - Jared Kellen
 
-` I played this game and I think it is the best game that has ever been made. Ever. - Keyvin Brown `
+I played this game and I think it is the best game that has ever been made. Ever. - Keyvin Brown
 
-` I love the game and the soothing music on the title screen - Richard Cashworth `
+I love the game and the soothing music on the title screen - Richard Cashworth
 
-` The game is just perfect! It will forever be remembered as the greatest artifact of interactive media of all time! - Scott Morgan ` *
+The game is just perfect! It will forever be remembered as the greatest artifact of interactive media of all time! - Scott Morgan*
 
 [Leave a review](https://raythenoob.github.io/website/real-word/post)
 
