@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Why I made this
-permalink: /real-word/why/
+permalink: /real-word/why
 ---
 
 # Why I made this
