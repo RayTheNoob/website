@@ -5,7 +5,7 @@ permalink: /real-word/downloads/
 ---
 
 ## Downloads
-[Back](https://raythenoob.github.io/real-word)
+[Back](https://raythenoob.github.io/website/real-word)
 
 ### 1.0
  - Browser Version (likely won't ever work)
