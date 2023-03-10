@@ -4,7 +4,7 @@ title: Real Word
 permalink: /real-word
 ---
 
-## Real Word
+# Real Word
 ![enter image description here](https://raw.githubusercontent.com/RayTheNoob/real-word/main/assets/title.png)
 
 Real Word is a fun and skill based learing game!
