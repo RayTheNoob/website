@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Real Word
+title: About
 permalink: /real-word/
 ---
 
@@ -34,4 +34,6 @@ Don't trust us! Trust our players who left reviews!
 
 > The game is just perfect! It will forever be remembered as the greatest artifact of interactive media of all time! - Scott Morgan
 
-[Leave a review](https://raythenoob.github.io/real-word/about/)
+[Leave a review](https://raythenoob.github.io/website/real-word/post)
+
+[Back](https://raythenoob.github.io/website/)
