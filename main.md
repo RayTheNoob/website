@@ -16,7 +16,7 @@ permalink: /
 
 Real Word is a fun word learning game
 
-[>>> More about Real Word](https://raythenoob.github.io/website/real-word)
+[More about Real Word](https://raythenoob.github.io/website/real-word)
 
 ---
 Hopefully you enjoy my website. I will keep updating it as I do more stuff.
