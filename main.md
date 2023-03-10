@@ -1,11 +1,5 @@
 ---
 layout: page
-title: Ray
-permalink: /
----
-
----
-layout: page
 title: UNDER CONSTRUCTION
 permalink: /
 ---
@@ -33,7 +27,7 @@ Text
  - text
  - text
  
- 
+ [Cool link](/noLink)
 
 > Hello
 
@@ -45,9 +39,3 @@ Text
 
 
 List item
-
-
-## My Website
-
- - Stuff will be here
- - Yay
