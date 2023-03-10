@@ -37,5 +37,3 @@ The game is just perfect! It will forever be remembered as the greatest artifact
 ---
 
 [Leave a review](https://raythenoob.github.io/website/real-word/post)
-
-[Back](https://raythenoob.github.io/website/)
