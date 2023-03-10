@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Real Word
 permalink: /real-word/
 ---
 
@@ -10,8 +10,8 @@ permalink: /real-word/
 Real Word is a fun and skill based learing game!
 
 - [Repo](https://github.com/RayTheNoob/real-word)
-- [Download](https://raythenoob.github.io/real-word/downloads)
-- [Why I made this](https://raythenoob.github.io/website/real-word/why)
+- [Download](/downloads)
+- [Why I made this](/why)
 
 ![Real Word](https://raw.githubusercontent.com/RayTheNoob/real-word/main/assets/Screenshot1.png)
 
