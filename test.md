@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UNDER CONSTRUCTION
-permalink: /
+permalink: /test
 ---
 # UNDER CONSTRUCTION
 ## Please be aware that things may be a bit strange right now
