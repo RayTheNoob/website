@@ -1,0 +1,57 @@
+---
+layout: page
+---
+
+  <head>
+    <title>{{ page.title | escape }}</title>
+    <link rel="icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/79372911?v=4">
+    
+    <style>
+      .container {
+         max-width: 1000px;
+         margin: auto;
+      }
+      @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+      a, p, ul, il, ol, il, h1, h2, h3, h4, h5, h6 {
+        font-family: 'Lato', sans-serif;
+        text-align: center;
+        color: black;
+      }
+      a, p, ul, il, ol {
+         text-size: 28;
+      }
+      h1 {font-size: 58;}
+      h2 {font-size: 42;}
+      h3 {font-size: 32;}
+      a {
+        text-shadow: 0 0 10px #00f, 0 0 10px #00f, 0 0 10px #00f;
+      }
+      body{
+        background-color: #1047a1;
+        background-image: url("assets/background2.png");
+        background-repeat: repeat;
+      }
+    </style>
+  </head>
+
+<div class="container">
+    <!--
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+    </header>
+    -->
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+  
+    <!--
+    <footer>
+      <a href="https://raythenoob.github.io/website/">Home</a>
+      <p> - </p>
+      <a href="https://raythenoob.github.io/website/sitemap">Sitemap</a>
+      <p> - </p>
+      <a href="https://github.com/RayTheNoob">Github</a>
+    </footer>
+  -->
+</div>
