@@ -1,6 +1,8 @@
+---
 layout: page
 title: Ray
 permalink: /
+---
 
 ## My Website
 
