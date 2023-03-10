@@ -7,8 +7,11 @@ permalink: /
 # Ray's Website
 [Sitemap](https://raythenoob.github.io/website/sitemap)
 
+---
+
 **Welcome to my website! This will be used to showcase some of my coding projects.**
 
+---
 ![Real Word](https://raw.githubusercontent.com/RayTheNoob/real-word/main/assets/Screenshot1.png)
 
 Real Word is a fun word learning game
