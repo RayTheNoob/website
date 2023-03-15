@@ -39,4 +39,4 @@ The game is just perfect! It will forever be remembered as the greatest artifact
 
 ---
 
-[Leave a review](javascript:prompt("Type your review here:"); prompt("Enter your name:");alert("Thank you for leaving a comment");flag1 = false)
+[Leave a review](javascript:prompt("Type your review here:"); prompt("Enter your name:");alert("Thank you for leaving a comment"))
