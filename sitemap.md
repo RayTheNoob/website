@@ -5,6 +5,11 @@ permalink: /sitemap
 ---
 
 # Sitemap
+
+![sitemap](https://raw.githubusercontent.com/RayTheNoob/website/main/assets/tmpMap.png)
+
+---
+
  [Main](https://raythenoob.github.io/website/)
 
  [🔸Real Word](https://raythenoob.github.io/website/real-world)
