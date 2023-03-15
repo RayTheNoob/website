@@ -17,6 +17,6 @@ permalink: /sitemap
 
  [🔸🔸Why?](https://raythenoob.github.io/website/rayPong/why)
 
- [Sitemap] (https://raythenoob.github.io/website/sitemap)
+ [Sitemap](https://raythenoob.github.io/website/sitemap)
 
  [404](https://raythenoob.github.io/website/404)
