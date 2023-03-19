@@ -14,6 +14,7 @@ permalink: /rayPong
 
 
 ![ ](https://raw.githubusercontent.com/RayTheNoob/website/main/pages/rayPong/rpscreenshot2.png)
+
 RayPong is a pong like game that can be played with one or two players. It features multiple scoring modes:
 
 **Classic**
