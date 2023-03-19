@@ -1,9 +1,3 @@
----
-layout: page
-title: Ray Pong
-permalink: /rayPong
----
-
 # RayPong
 
 Coming soon!
