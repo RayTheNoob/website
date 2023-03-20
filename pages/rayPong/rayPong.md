@@ -6,6 +6,8 @@ permalink: /rayPong
 
 # RayPong
 
+[**Source Code**](https://github.com/RayTheNoob/Ray-Pong)
+
 [**Why**](https://raythenoob.github.io/website/rayPong/why)
 
 [**Downloads**](https://raythenoob.github.io/website/rayPong/download)
