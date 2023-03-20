@@ -44,6 +44,7 @@ permalink : /scum-game-corp
                 <img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/ohiotorn.png">
             </div>
         </div>
+	<br/>
         <p>If you want to work as a developer or an artist, the Ohio office is for you!<br/><br/><strong>Base Pay:</strong><br/>$0.05 per hour<br/><br/><strong>Benifits:</strong><br/>None due to budget issues<br/><br/><strong>Building contains asbestos and is not structurally sound. Many workplace injuys have happend.</strong></p>
 
 <style>
