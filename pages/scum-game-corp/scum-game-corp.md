@@ -4,7 +4,7 @@ title: Scum Game Corp
 permalink : /scum-game-corp
 ---
 
-       <img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/scg.png"> 
+ <img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/scg.png"> 
        <hr/>   
         <h1>About Us</h1>        
         <p>Scum Game Corp is a corporation that is devoted to create high quality video game experences for our clients. We are proud to be based in Amearica and to not be part of any money laundering operaion. The image belowe is the garage that Scum Game Corp was started in back in the 90s. Below we will give you a short tour of your different offices!</p>
@@ -14,7 +14,7 @@ permalink : /scum-game-corp
         <p>Our $950 million Florida office is where all the HR and management takes place. This place has great funding and is fun to work in. The inside and outside is covered in gold panels. The futuristic building is beutiful and has 100 custom stained glass windows. The building is constanty being upgraded with the latest tech. The gold server room has custom powerfull hardware. The building has a great view of the beach.</p>
         <img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/hroutside.png">
 
-        <div class="row">
+  <div class="row">
             <div class="column">
                 <img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/hrloby.png">
                 <img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/goldhall.png">
@@ -31,7 +31,7 @@ permalink : /scum-game-corp
         <p>If you want to work in HR and management, the Florida office is the place for you!<br/><br/><strong>Base Pay:</strong><br/>$25 per hour<br/><br/><strong>Benifits:</strong><br/>Great benifits!<br/></p>
 
 
-        <hr />
+  <hr />
         <h1>Ohio</h1>
         <p>Our Ohio office studio is where the games themselfs are produced. It has seen better days unfortunately. One part of it suffered fire damage and is being torn down. The server room was on fire a while ago becasue of ohio heat waves and is being repaired. The development work used to take place in Detroit, but the building was torn down due to lack of mainince funding. The Ohio building was declared unsafe but our developers are still working inside it due to lack of funding</p>
         <img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/ohiooutside.png">
@@ -52,7 +52,7 @@ permalink : /scum-game-corp
   <hr />
 
 
-    <style>
+ <style>
         .row {
           display: flex;
           flex-wrap: wrap;
