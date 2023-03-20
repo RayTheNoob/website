@@ -10,6 +10,8 @@ permalink: /real-word
 
 ![enter image description here](https://raw.githubusercontent.com/RayTheNoob/real-word/main/assets/title.png)
 
+Game by [Scum Game Corp](https://raythenoob.github.io/website/scum-game-corp)
+
 Real Word is a fun and skill based learing game!
 
 - [Repo](https://github.com/RayTheNoob/real-word)
