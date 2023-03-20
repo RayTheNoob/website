@@ -15,10 +15,12 @@ permalink: /rayPong
 <!---
 ![ ](https://raw.githubusercontent.com/RayTheNoob/website/main/pages/rayPong/rpscreenshot2.png)
 -->
-<video width="800" height="600" autoplay>
+<div>
+<video width="400" height="300" autoplay loop>
   <source src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/rayPong/fmv.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
+</div>
 
 RayPong is a pong like game that can be played with one or two players. It features multiple scoring modes:
 
