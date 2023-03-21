@@ -7,7 +7,7 @@ permalink : /scum-game-corp
  <img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/scg.png"> 
  <hr/>   
  <h1>About Us</h1>        
- <p>Scum Game Corp is a corporation that is devoted to create high quality video game experences for our clients. We are proud to be based in Amearica and to not be part of any money laundering operaion. The image belowe is the garage that Scum Game Corp was started in back in the 90s. Below we will give you a short tour of our different offices!</p>
+ <p>Scum Game Corp is a corporation that is devoted to create high quality video game experences for our clients. You can view our <a href="https://raythenoob.github.io/website/pages/scum-game-corp/youtube.html">Youtube channel</a> for more info on our games. We are proud to be based in Amearica and to not be part of any money laundering operaion. The image belowe is the garage that Scum Game Corp was started in back in the 90s. Below we will give you a short tour of our different offices!</p>
 <img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/home.png">
 <hr />
 <h1>Florida</h1>
