@@ -33,7 +33,7 @@ permalink : /scum-game-corp
 <hr />
 <h1>Ohio</h1>
 <p>Our Ohio office studio is where the games themselfs are produced. It has seen better days unfortunately. One part of it suffered fire damage and is being torn down. The server room was on fire a while ago becasue of ohio heat waves and is being repaired. The development work used to take place in Detroit, but the building was torn down due to lack of mainince funding. The Ohio building was declared unsafe but our developers are still working inside it due to lack of funding</p>
-<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/ohiooutside.png">
+<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/ohiooutside2.png">
 	
 <div class="row">
     <div class="column">
@@ -46,7 +46,7 @@ permalink : /scum-game-corp
 	<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/ohio3.png">
 	<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/ohiofire.png">
 	<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/ohiotorn.png">
-	<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/ohiooutside2.png">
+	<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/ohiooutside.png">
     </div>
 </div>
 <br/>
