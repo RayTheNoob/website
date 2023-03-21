@@ -18,10 +18,12 @@ permalink : /scum-game-corp
     <div class="column">
         <img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/hrloby.png">
         <img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/goldhall.png">
+	<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/hrlargehall.png">
     </div>
     <div class="column">
         <img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/hrhall.png">
         <img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/goldroom.png">
+	<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/hrhall2.png">
     </div>
 </div>
 <br/>
@@ -38,11 +40,13 @@ permalink : /scum-game-corp
 	<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/ohio1.png">
 	<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/ohio2.png">
 	<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/ohioservers.png">
+	<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/ohiotorn3.png">
     </div>
     <div class="column">
 	<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/ohio3.png">
 	<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/ohiofire.png">
 	<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/ohiotorn.png">
+	<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/scum-game-corp/images/ohiooutside2.png">
     </div>
 </div>
 <br/>
