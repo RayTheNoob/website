@@ -12,7 +12,7 @@ permalink: /rayPong
 
 [**Downloads**](https://raythenoob.github.io/website/rayPong/download)
 
-[**Play Online**](https://raythenoob.github.io/website/rayPong/demo.html)
+[**Play Online**](https://raythenoob.github.io/website/pages/rayPong/demo/ray-pong.html)
 
 <!---
 ![ ](https://raw.githubusercontent.com/RayTheNoob/website/main/pages/rayPong/rpscreenshot2.png)
