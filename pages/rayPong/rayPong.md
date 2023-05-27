@@ -48,4 +48,4 @@ Bot uses a hacked client and plays without ethics
 
 ---
 ## How to run
-RayPong is made in [LÖVE](https://love2d.org/)  and can be played by downloading LÖVE and opening the RayPong.love file in it. If you are on Linux and have LÖVE installed, run `love filepath/RayPong.love` or `filepath/love\ exactable filepath/RayPong.love`. There should also be builds for web browser and MacOS.
+RayPong is made in [LÖVE](https://love2d.org/)  and can be played by downloading LÖVE and opening the RayPong.love file in it. If you are on Linux and have LÖVE installed, run `love filepath/RayPong.love` or `filepath/love\ executable filepath/RayPong.love`. There should also be builds for web browser and MacOS.
