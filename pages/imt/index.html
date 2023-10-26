@@ -9,7 +9,7 @@
 <body>
 <div id="wrapper">
 	<h1 id="title">Infinite Multiplication Table</h1>
-	<p>Check out <a href="https://raythenoob.github.io/website/">my other stuff.</a> Generated with <a href="https://schellingb.github.io/LoveWebBuilder">this website.</a></p>
+	<!--<p>Check out <a href="https://raythenoob.github.io/website/">my other stuff.</a> Generated with <a href="https://schellingb.github.io/LoveWebBuilder">this website.</a></p>-->
 	<div id="main">
 		<center><canvas id="canvas" width="1000" height="800" style="max-width:100%;background:#000;vertical-align:middle"></canvas></center>
 	</div>
@@ -57,7 +57,7 @@ var DoLoad = function()
 	window.onerror = function(e,u,l) { Fail(e+'<br>('+u+':'+l+')'); };
 	Module = { TOTAL_MEMORY: 1024*1024*24, TOTAL_STACK: 1024*1024*2, currentScriptUrl: '-', preInit: DoExecute };
 	var s = document.createElement('script'), d = document.documentElement;
-	s.src = 'InfiniteMultiplicationTable.js';
+	s.src = 'InfiniteMultiplicationTable2.js';
 	s.async = true;
 	s.onerror = function(e) { d.removeChild(s); Msg(TXT.DLERROR); canvas.disabled = false; };
 	d.appendChild(s);
