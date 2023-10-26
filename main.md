@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Ray's Website
