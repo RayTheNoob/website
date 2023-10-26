@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Ray's Website
@@ -5,11 +6,19 @@ permalink: /
 ---
 
 # Ray's Website
-[Sitemap](https://raythenoob.github.io/website/sitemap)
 
 ---
 
 **Welcome to my website! This will be used to showcase some of my coding projects.**
+
+---
+![](https://raw.githubusercontent.com/RayTheNoob/Infinite-Multiplication-Table/main/multiplicationS1.png)
+
+An 'infinite' multiplication table. 
+
+[Click here to play in your browser.](https://raythenoob.github.io/website/pages/imt/index.html)
+
+This project is open source! [Code available here.](https://github.com/RayTheNoob/Infinite-Multiplication-Table)
 
 ---
 ![ ](https://raw.githubusercontent.com/RayTheNoob/website/main/pages/rayPong/rpscreenshot.png)
