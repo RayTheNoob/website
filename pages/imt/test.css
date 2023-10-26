@@ -1,0 +1,34 @@
+      center {
+        margin-left: auto;
+        margin-right: auto;
+		  max-width: 90%
+       }
+      @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+      a, p, ul, il, ol, il, h1, h2, h3, h4, h5, h6 {
+        font-family: 'Lato', sans-serif;
+        text-align: center;
+        color: white;
+      }
+      a, p, ul, il, ol {
+         text-size: 28;
+      }
+      h1 {font-size: 45;}
+      h2 {font-size: 42;}
+      h3 {font-size: 32;}
+      a {
+        text-shadow: 0 0 10px #00f, 0 0 10px #00f, 0 0 10px #00f;
+      }
+      body{
+        background-color: teal;
+        /*background-image: url("tile.png");
+        background-repeat: repeat;*/
+      }
+      hr {
+       border-top: 2px dotted;
+      }
+      img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 75%;
+      }
