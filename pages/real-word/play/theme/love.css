@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: arial;
+}
+@keyframes test {
+  from {color: #292929; text-shadow: 0px 0px 0px black;}
+  to {color: white;  text-shadow: 0px 0px 15px #57fffc;}
+}
+
+/* The element to apply the animation to */
+h1 {
+  width: 100px;
+  height: 100px;
+  /*background-color: red;*/
+  animation-name: test;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+body {
+    background-image: url(bg2.png);
+    background-repeat: no-repeat;
+    font-family: arial;
+    margin: 0;
+    padding: none;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+footer {
+    font-family: arial;
+    font-size: 12px;
+    padding-left: 10px;
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+}
+a:link {
+    color: rgb( 233, 73, 154 );
+}
+a:visited {
+    color: rgb( 110, 30, 71 );
+}
+a:hover {
+    color: rgb( 252, 207, 230 );
+}
+
+/* the canvas *must not* have any border or padding, or mouse coords will be wrong */
+#canvas {
+    padding-right: 0;
+    display: block;
+    border: 0px none;
+    visibility: hidden;
+    box-shadow: 0px 0px 75px #0e2525;
+
+}
