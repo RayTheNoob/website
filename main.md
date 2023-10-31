@@ -33,6 +33,8 @@ Real Word is a fun word learning game
 
 [More about Real Word](https://raythenoob.github.io/website/real-word)
 
+[Play in your browser](https://raythenoob.github.io/website/pages/real-word/play/)
+
 ---
 Hopefully you enjoy my website. I will keep updating it as I do more stuff.
 
