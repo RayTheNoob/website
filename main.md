@@ -11,7 +11,7 @@ permalink: /
 **Welcome to my website! This will be used to showcase some of my coding projects.**
 
 ---
-![](https://raw.githubusercontent.com/RayTheNoob/Infinite-Multiplication-Table/main/multiplicationS1.png)
+<img src="https://raw.githubusercontent.com/RayTheNoob/Infinite-Multiplication-Table/main/multiplicationS1.png" class="scaleimg"></img>
 
 An 'infinite' multiplication table. 
 
