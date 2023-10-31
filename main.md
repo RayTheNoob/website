@@ -20,14 +20,14 @@ An 'infinite' multiplication table.
 This project is open source! [Code available here.](https://github.com/RayTheNoob/Infinite-Multiplication-Table)
 
 ---
-![ ](https://raw.githubusercontent.com/RayTheNoob/website/main/pages/rayPong/rpscreenshot.png)
+<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/rayPong/rpscreenshot.png" class="scaleimg"></img>
 
 RayPong is a pong like game
 
 [More about RayPong](https://raythenoob.github.io/website/rayPong)
 
 ---
-![Real Word](https://raw.githubusercontent.com/RayTheNoob/real-word/main/assets/Screenshot1.png)
+<img src="https://raw.githubusercontent.com/RayTheNoob/real-word/main/assets/Screenshot1.png"  class="scaleimg"></img>
 
 Real Word is a fun word learning game
 
