@@ -11,7 +11,7 @@ permalink: /
 **Welcome to my website! This will be used to showcase some of my coding projects.**
 
 ---
-<img src="https://raw.githubusercontent.com/RayTheNoob/Infinite-Multiplication-Table/main/multiplicationS1.png" class="scaleimg"></img>
+<img src="https://raw.githubusercontent.com/RayTheNoob/Infinite-Multiplication-Table/main/multiplicationS1.png" class="scaleimg">
 
 An 'infinite' multiplication table. 
 
@@ -20,14 +20,14 @@ An 'infinite' multiplication table.
 This project is open source! [Code available here.](https://github.com/RayTheNoob/Infinite-Multiplication-Table)
 
 ---
-<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/rayPong/rpscreenshot.png" class="scaleimg"></img>
+<img src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/rayPong/rpscreenshot.png" class="scaleimg">
 
 RayPong is a pong like game
 
 [More about RayPong](https://raythenoob.github.io/website/rayPong)
 
 ---
-<img src="https://raw.githubusercontent.com/RayTheNoob/real-word/main/assets/Screenshot1.png"  class="scaleimg"></img>
+<img src="https://raw.githubusercontent.com/RayTheNoob/real-word/main/assets/Screenshot1.png"  class="scaleimg">
 
 Real Word is a fun word learning game
 
