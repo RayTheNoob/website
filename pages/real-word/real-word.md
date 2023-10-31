@@ -8,7 +8,7 @@ permalink: /real-word
 # Real Word
 -->
 
-![enter image description here](https://raw.githubusercontent.com/RayTheNoob/real-word/main/assets/title.png)
+<img src="https://raw.githubusercontent.com/RayTheNoob/real-word/main/assets/title.png" class="scaleimg"></img>
 
 <!--Game by [Scum Game Corp](https://raythenoob.github.io/website/scum-game-corp)-->
 
