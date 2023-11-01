@@ -18,7 +18,7 @@ permalink: /rayPong
 ![ ](https://raw.githubusercontent.com/RayTheNoob/website/main/pages/rayPong/rpscreenshot2.png)
 -->
 <div>
-<video width="400" height="300" autoplay loop>
+<video width="400" height="300" autoplay loop class="scaleimg">>
   <source src="https://raw.githubusercontent.com/RayTheNoob/website/main/pages/rayPong/fmv.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
