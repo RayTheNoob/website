@@ -18,12 +18,12 @@ Real Word is a fun and skill based learing game!
 - [Download](https://raythenoob.github.io/website/real-word/downloads)
 - [Why I made this](https://raythenoob.github.io/website/real-word/why)
 
-![Real Word](https://raw.githubusercontent.com/RayTheNoob/real-word/main/assets/Screenshot1.png)
+<img src="https://raw.githubusercontent.com/RayTheNoob/real-word/main/assets/Screenshot1.png" class="scaleimg">
 
 You have to create four letter words with the letters provided!
 It is very fun and can help you learn!
 
-![Real Word](https://raw.githubusercontent.com/RayTheNoob/real-word/main/assets/Screenshot2.png)
+<img src="https://raw.githubusercontent.com/RayTheNoob/real-word/main/assets/Screenshot2.png" class="scaleimg">
 
 Don't trust us! Trust our players who left reviews!
 
