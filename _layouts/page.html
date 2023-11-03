@@ -49,14 +49,19 @@ layout: page
       }
       .scaleimg:hover {
       border-radius: 15%;
-      filter: brightness(155%);
+      filter: brightness(130%);
+      transform:scale(1.2);
+      box-shadow: 15px 15px 25px black;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
       }
       @keyframes scroll {
       from {background-position: 0px 0px;}
       to {background-position: 0px 1023px;}
       }
       .scaleimg {
-        transition: border-radius 1s, filter 1s;
+      display: inline-block;
+      overflow: hidden;
+      transition: all 0.5s ease-in-out;
       }
       ::-moz-selection {
       color: black;
